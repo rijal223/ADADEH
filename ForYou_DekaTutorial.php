@@ -11,13 +11,21 @@ tombolPesan = "Kirim Pesan";
 
 konten = [
   {
-    gambar: "NamaFileGambar",
-    ucapan: "UcapanKalian",
+    gambar: "1.gif",
+    ucapan: "Hi cantik",
+  },
+  {
+    gambar: "2.gif",
+    ucapan: "capek yah",
+  },
+  {
+    gambar: "3.gif",
+    ucapan: "Semangatt yahhh",
   },
 ];
 
 musik = "musik.mp3";
-noWhatsapp = "6281xxx";
+noWhatsapp = "628990085313";
 
 /*=========================*/
 </script><script>DekaTutorial(konten, musik, noWhatsapp, teksOpen, tombolPesan);</script></body></html>
